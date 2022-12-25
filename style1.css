@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.heroimage{
+    background-image: linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 60%,rgba(0,0,0,.8)),url("./homeimages/IN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large\ \(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:1000px;
+}
+
+
+.langauge{
+    top:20px;
+    background-color: transparent;
+    border: 1px solid white;
+    justify-content: end;
+}
+.signin{
+    top:20px;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 2px;
+    background-color: red;
+    color:white;
+    padding: 10px 20px;
+}
+.title-1{
+    font-family: 'Poppins',sans-serif;
+    color:white;
+    font-size: 50px;
+    letter-spacing: normal;
+}
+.title-2{
+    line-height: 1.8;
+    font-family:Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.title-3{
+    font-family:Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+.input{
+    height:80px;
+    width:600px;
+    border:1px solid white;
+
+}
+.input-text-group{
+    background-color: red;
+    font-size:28px;
+    color:white;
+    padding:20px;
+
+}
+.container tv{
+    background-image: black;
+    width:100%;
+}
+section{
+    border-top: 8px solid #222;
+    background-color: black;
+    color:white;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+.accordion-button{
+    background-color: #222;
+    color:white;
+}
+.readytowatch{
+    background-color: black;
+}
+.call a{
+    margin-top:10px;
+    color:grey;
+}
+footer{
+    background-color: black;
+    border-top:8px solid #222;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer ul li a{
+    color:grey;
+    margin-top: 10px;
+}
+footer a{
+    text-decoration: none;
+}
